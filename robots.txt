@@ -1,0 +1,7 @@
+# Adresa https://lofika-zlatibor.rs je privremena. Zameni je pravom adresom sajta.
+# Sajt je trenutno TEST: stranice nose meta oznaku "noindex, nofollow", pa ih pretraživači neće prikazivati.
+# Pristup je ostavljen otvoren da bi roboti mogli da pročitaju tu oznaku.
+User-agent: *
+Allow: /
+
+Sitemap: https://lofika-zlatibor.rs/sitemap.xml
